@@ -30,3 +30,13 @@
     transform: rotate(360deg);
   }
 }
+
+.Banner-image{
+    max-width: 100%;
+}
+
+.Introduction-section{
+    text-align: center;
+    front-size: 2.5em;
+    margin: 10%;
+}
