@@ -18,10 +18,6 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -39,4 +35,19 @@
     text-align: center;
     front-size: 2.5em;
     margin: 10%;
+}
+
+.About-section{
+    background-color: #F5F5F5;
+     display: grid;
+     grid-template-columns: repeat(3, 1fr);
+     grid-gap: 40px;
+}
+
+.About-card{
+  padding: 20px;
+}
+
+.media{
+  /* max-width: 100%; */
 }
